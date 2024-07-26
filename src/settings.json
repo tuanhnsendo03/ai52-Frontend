@@ -1,0 +1,82 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "1",
+        "linkText": "2",
+        "subtitle": "Discover, Rent, and Hit the Road with Ease – Your Next Adventure Awaits!",
+        "title": "Drive Your Dream Today"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover, Rent, and Hit the Road with Ease – Your Next Adventure Awaits!",
+        "title": "Drive Your Dream Today"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "2",
+        "title": "1"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover, Rent, and Hit the Road with Ease – Your Next Adventure Awaits!",
+        "title": "Drive Your Dream Today"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "description": "2",
+        "subtitle": "Discover, Rent, and Hit the Road with Ease – Your Next Adventure Awaits!",
+        "title": "1"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "description": "3",
+        "linkText": "4",
+        "subtitle": "Discover, Rent, and Hit the Road with Ease – Your Next Adventure Awaits!",
+        "title": "Drive Your Dream Today",
+        "titlePart1": "1",
+        "titlePart2": "2"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover, Rent, and Hit the Road with Ease – Your Next Adventure Awaits!",
+        "title": "Drive Your Dream Today"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "4",
+        "description": "2",
+        "emailLabel": "3",
+        "heading": "1",
+        "subtitle": "Discover, Rent, and Hit the Road with Ease – Your Next Adventure Awaits!",
+        "title": "Drive Your Dream Today"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover, Rent, and Hit the Road with Ease – Your Next Adventure Awaits!",
+        "title": "Drive Your Dream Today"
+      }
+    }
+  ],
+  "theme": "gradient",
+  "font": "",
+  "title": "Drive Your Dream Today",
+  "subtitle": "Discover, Rent, and Hit the Road with Ease – Your Next Adventure Awaits!"
+}
